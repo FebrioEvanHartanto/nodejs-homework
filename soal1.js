@@ -1,4 +1,4 @@
-const calculate = require("./calculate");
+const calculate = require("./calculate.js");
 
 console.log(calculate.calculateKelilingPersegi(5));
 console.log(calculate.calculateLuasPersegi(20));
